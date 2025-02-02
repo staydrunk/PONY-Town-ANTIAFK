@@ -13,12 +13,15 @@
 ## Asked Questions!
 
 "I get an error when i try running the file"
+
 To fix this, go to your file explorer, find "ponytown.py" and right click on it, click properties, copy the location. (it must be something like C:\Users\Username\Download) and go to your terminal again, type "cd" and paste the location of the file that you copied and type "python ponytown.py" again. This should fix it.
 
 "Do i have to keep Pony Town on my screen?"
+
 Yes, you have to.
 
 "How often does it refresh?"
+
 When you run the file, it asks you that. I would recommend to answer with higher numbers. But it doesnt matter that much.
  
 ### Extra
