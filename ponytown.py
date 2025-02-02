@@ -15,7 +15,7 @@ def mode_selection():
         try:
             selection = input(
                 "No ban risk! Close the tab to make the app stop.\n" +
-                "--> Type 'Start' to begin, MADE BY STAYDRUNK ON GITHUB, Thanks for the helpers/Inspirations.\n"
+                "--> Type 'Start' to begin, MADE BY STAYDRUNK ON GITHUB. Thanks for the inspirations and making me do this!.\n"
                 ">>> ").strip()
             if selection in available_selection:
                 return selection
