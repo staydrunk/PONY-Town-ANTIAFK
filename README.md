@@ -1,6 +1,6 @@
 # PONY-Town-ANTIAFK
 
-Welcome! This is the most easy to use and simple anti-afk script for Pony Town, but you can use it for ANY game actually. 
+Welcome! This is the most easy to use and simple anti-afk script for Pony Town, but you can use it for ANY game actually. By using this, you can stay afk forever like a tier 4 supporter. (for free!)
 
 ## How to use it!
 
