@@ -1,5 +1,7 @@
 # PONY-Town-ANTIAFK
 
+Welcome! This is the most easy to use and simple anti-afk script for Pony Town, but you can use it for ANY game actually. 
+
 ## How to use it!
 
 1- Download the file [here](https://github.com/staydrunk/PONY-Town-ANTIAFK/blob/main/ponytown.py)
