@@ -3,8 +3,11 @@
 ## How to use it!
 
 1- Download the file [here](https://github.com/staydrunk/PONY-Town-ANTIAFK/blob/main/ponytown.py)
+
 2- Go to your terminal and install pyautogui by typing "pip install pyautogui"
+
 3- Run the file by typing "python ponytown.py"
+
 4- Enjoy!
 
 ## Asked Questions!
