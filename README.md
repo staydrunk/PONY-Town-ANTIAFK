@@ -28,4 +28,4 @@ When you run the file, it asks you that. I would recommend to answer with higher
  
 ### Extra
 
-Its impossible to get banned for this. So you can use it without getting worried. This cant get fixed by Pony Town too. And its the easiest to use anti-afk script for Pony Town. And you dont have to play in the web version, you can do it with you downloaded app. (Dont misunderstand this, it does NOT work for mobile. I can make something for mobile soon if i dont get lazy.
+Its impossible to get banned for this. So you can use it without getting worried. This cant get fixed by Pony Town too. Its the easiest to use anti-afk script for Pony Town. And you dont have to play in the web version, you can do it with your downloaded app. (Dont misunderstand this, it does NOT work for mobile. I can make something for mobile soon if i dont get lazy.)
