@@ -1,6 +1,6 @@
 # PONY-Town-ANTIAFK
 
-Welcome! This is the most easy to use and simple anti-afk script for Pony Town, but you can use it for ANY game actually. By using this, you can stay afk forever like a tier 4 supporter. (for free!)
+Welcome! This is the most easy to use and simple anti-afk script for Pony Town, but you can use it for ANY game actually. By using this, you can stay afk forever like a tier 4 supporter. (for free!) READ EVERYTHING THATS HERE ITS IMPORTANT.
 
 ## How to use it!
 
@@ -26,6 +26,11 @@ Yes, you have to.
 
 When you run the file, it asks you that. I would recommend to answer with higher numbers. But it doesnt matter that much.
  
+### WARNINGS
+
+Make the refresh rate over 200 (depends on your afk timeout but keep it over 200.)
+
+Change Keys Often, not that often but... often!! 
 ### Extra
 
 Its impossible to get banned for this. So you can use it without getting worried. This cant get fixed by Pony Town too. Its the easiest to use anti-afk script for Pony Town. And you dont have to play in the web version, you can do it with your downloaded app. (Dont misunderstand this, it does NOT work for mobile. I can make something for mobile soon if i dont get lazy.)
