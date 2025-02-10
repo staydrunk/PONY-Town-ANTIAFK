@@ -2,10 +2,7 @@ import random
 import pyautogui
 import time
 
-keys = ["u", "x", "v", "k"]
-
 class term_color:
-    
     FAIL = r'\033[91m'  
     ENDC = r'\033[0m'  
 
@@ -24,7 +21,6 @@ def mode_selection():
         except ValueError:
             print(f"{term_color.FAIL}Please choose a valid option from the list{term_color.ENDC}")
 
-
 def seconds_interval():
     while True:
         try:
@@ -36,14 +32,19 @@ def seconds_interval():
         except ValueError:
             print(f"{term_color.FAIL}Value must be a number{term_color.ENDC}")
 
-
 def move_mouse():
     current_mouse_x, current_mouse_y = pyautogui.position()
     pyautogui.moveTo(current_mouse_x - 1, current_mouse_y - 1)
 
+def get_custom_keys():
+    
+    user_input = input("Choose 4 keys. (no numbers or WASD) Try changing this often (e.g., 'kgps'): ").strip()
+    return list(user_input)
 
 def main():
     try:
+        
+        keys = get_custom_keys()
         mode = mode_selection()
         seconds_to_repeat = seconds_interval()
         while True:
@@ -55,12 +56,10 @@ def main():
     except KeyboardInterrupt:
         pass
 
-
 def press_and_depress_with_delay(key, sleep):
     pyautogui.keyDown(key)
     time.sleep(sleep)
     pyautogui.keyUp(key)
-
 
 if __name__ == "__main__":
     main()
